@@ -1,5 +1,14 @@
 {
-  "358240051111110": [
-{"id":453,"imei":"358240051111110","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"06\/08\/2021"}
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
