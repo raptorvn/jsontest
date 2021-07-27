@@ -8,5 +8,5 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "test": {"id":779,"imei":"358240051111110","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"}
+  "358240051111110": {"id":779,"imei":"358240051111110","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"}
 }
