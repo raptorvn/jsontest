@@ -1,6 +1,14 @@
 {
+    "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "358240051111110": {"id":1,"imei":"358240051111110","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"},
   "5033aa0e56c3108d": {"id":2,"imei":"5033aa0e56c3108d","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"},
-  "355036111938994": {"id":3,"imei":"355036111938994","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"},
-  "3388dfaeda35021e": {"id":4,"imei":"3388dfaeda35021e","name":"Test","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"}
+  "355036111938994": {"id":3,"imei":"355036111938994","name":"A hieu bn","type":1,"isExpired":false,"expiredAt":"26\/08\/2021"}
 }
